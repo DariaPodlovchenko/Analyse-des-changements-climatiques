@@ -17,6 +17,7 @@ Points clés :
   - Carte du nombre moyen de jours de gel (1991–2020)
   - Animation de l’évolution du nombre de jours de gel (1950–2023, GIF)  
 
+<br> <br>
 Fonctionnalités :
 - Pandas (Python) – Manipulation des données climatiques (nettoyage, tri, agrégation).  
 - ncdf4 (R) – Extraction et traitement des données NetCDF.  
@@ -24,6 +25,7 @@ Fonctionnalités :
 - Folium (Python) – Intégration des cartes dans une interface interactive pour une exploration dynamique.  
 - R – Analyse statistique et génération des cartes climatiques.
 
+<br> <br>
 Exemple de carte interactive : Températures journalières moyennes en Europe (1950-1986)
 - Affichage des informations au survol** : En plaçant le curseur sur une zone, une infobulle affiche la **température moyenne (°C)** et les **coordonnées géographiques (latitude, longitude)**.
 - Échelle de couleurs :  
@@ -39,6 +41,8 @@ Exemple de carte interactive : Températures journalières moyennes en Europe (1
     <img src="https://github.com/DariaPodlovchenko/Analyse-des-changements-climatiques/raw/main/MapEx.jpg" width="600">
 </div>
 
+
+<br> <br>
 Source des données : 
 <br>Site E-OBS : https://www.ecad.eu/download/ensembles/download.php 
 <br>Data : https://surfobs.climate.copernicus.eu/dataaccess/access_eobs.php#datafiles
