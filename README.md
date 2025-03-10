@@ -37,7 +37,7 @@ Ce dossier contient les scripts R pour le traitement et l’analyse des données
 
 <br> <br>
 Exemple de carte interactive : Températures journalières moyennes en Europe (1950-1986)
-- Affichage des informations au survol** : En plaçant le curseur sur une zone, une infobulle affiche la **température moyenne (°C)** et les **coordonnées géographiques (latitude, longitude)**.
+- Affichage des informations au survol : En plaçant le curseur sur une zone, une infobulle affiche la **température moyenne (°C)** et les **coordonnées géographiques (latitude, longitude)**.
 - Échelle de couleurs :  
    - Rouge foncé → Températures les plus élevées  
    - Bleu → Températures les plus basses
