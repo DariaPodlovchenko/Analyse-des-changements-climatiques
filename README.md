@@ -25,6 +25,7 @@ Fonctionnalités :
 - Folium (Python) – Intégration des cartes dans une interface interactive pour une exploration dynamique.  
 - R – Analyse statistique et génération des cartes climatiques.
 
+<br> <br>
 📂 **DataFormatGeoJsonVisualization**  
 Ce dossier contient les fichiers GeoJSON utilisés pour la visualisation des données spatiales. Ces fichiers permettent d'afficher les résultats sur des cartes interactives. 
 
