@@ -45,7 +45,7 @@ Exemple de carte interactive : Températures journalières moyennes en Europe (1
 - Légende dynamique :  
    - Zones sans données (blanc)  
    - Étendues d’eau (bleu clair)
-- Boutons de navigation** : Permettent de passer entre **1950-1986, 1987-2023 et l'évolution des températures**.  
+- Boutons de navigation : Permettent de passer entre **1950-1986, 1987-2023 et l'évolution des températures**.  
 
 <div align="center">
     <img src="https://github.com/DariaPodlovchenko/Analyse-des-changements-climatiques/raw/main/MapEx.jpg" width="600">
