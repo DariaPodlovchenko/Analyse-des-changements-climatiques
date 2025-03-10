@@ -25,6 +25,15 @@ Fonctionnalités :
 - Folium (Python) – Intégration des cartes dans une interface interactive pour une exploration dynamique.  
 - R – Analyse statistique et génération des cartes climatiques.
 
+📂 **DataFormatGeoJsonVisualization**  
+Ce dossier contient les fichiers GeoJSON utilisés pour la visualisation des données spatiales. Ces fichiers permettent d'afficher les résultats sur des cartes interactives. 
+
+📂 **ScriptsPythonVisualization**  
+Ce dossier regroupe les scripts Python dédiés à la visualisation des données climatiques. Il inclut la génération de cartes interactives avec **Plotly** et **Folium**. 
+
+📂 **ScriptsR**  
+Ce dossier contient les scripts R pour le traitement et l’analyse des données climatiques. Il inclut l'extraction des données NetCDF, les calculs statistiques et la création de cartes statiques. 
+
 <br> <br>
 Exemple de carte interactive : Températures journalières moyennes en Europe (1950-1986)
 - Affichage des informations au survol** : En plaçant le curseur sur une zone, une infobulle affiche la **température moyenne (°C)** et les **coordonnées géographiques (latitude, longitude)**.
