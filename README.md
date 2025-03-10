@@ -24,3 +24,9 @@ Fonctionnalités
 - Folium (Python) – Intégration des cartes dans une interface interactive pour une exploration dynamique.  
 - R – Analyse statistique et génération des cartes climatiques.  
 
+Source des données : https://www.ecad.eu/download/ensembles/download.php (https://surfobs.climate.copernicus.eu/dataaccess/access_eobs.php#datafiles)
+Les données utilisées dans ce projet proviennent de la base **E-OBS** (Ensemble Observational Dataset), issue du **European Climate Assessment & Dataset (ECA&D)**. Ce jeu de données météorologiques en accès libre regroupe des observations provenant de nombreuses stations réparties à travers l’Europe.  
+
+Pour cette étude, la **version 29** d’E-OBS a été exploitée, couvrant la période de **1950 à 2023**. Ce jeu de données contient plusieurs variables climatiques, notamment : Température minimale quotidienne (TN), Température maximale quotidienne (TX), Température moyenne quotidienne (TG), Somme quotidienne des précipitations (RR), Pression moyenne au niveau de la mer (PP), Vitesse moyenne quotidienne du vent (FG), Humidité relative moyenne quotidienne (HU), Radiation globale (QQ).
+
+*Dans ce projet, seules les **températures minimales (TN) et maximales (TX)** ont été sélectionnées pour l’analyse. Les valeurs de ces variables ont été calculées par interpolation, en prenant en compte les observations des stations météorologiques, le relief, la distance aux côtes et les régularités climatiques. La résolution spatiale des données est de **0,25°** (environ 25 km²), et la zone d’étude couvre l’Europe entre **34° et 72° de latitude nord** et **-12° et 42° de longitude**. Les données sont fournies sous **format NetCDF**, largement utilisé en climatologie pour stocker et traiter des données multidimensionnelles.*
